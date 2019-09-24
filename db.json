@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Vulture, white-headed","category":"Teal"},
+{"id":2,"name":"Coke's hartebeest","category":"Yellow"},
+{"id":3,"name":"Shelduck, european","category":"Maroon"},
+{"id":4,"name":"Gull, silver","category":"Turquoise"},
+{"id":5,"name":"Booby, blue-faced","category":"Green"},
+{"id":6,"name":"Egyptian viper","category":"Goldenrod"},
+{"id":7,"name":"Capuchin, black-capped","category":"Goldenrod"},
+{"id":8,"name":"Rhinoceros, black","category":"Red"},
+{"id":9,"name":"Common dolphin","category":"Mauv"},
+{"id":10,"name":"Lemur, ring-tailed","category":"Pink"},
+{"id":11,"name":"Blue wildebeest","category":"Orange"},
+{"id":12,"name":"Tinamou, elegant crested","category":"Maroon"},
+{"id":13,"name":"Eurasian badger","category":"Fuscia"},
+{"id":14,"name":"Iguana, common green","category":"Maroon"},
+{"id":15,"name":"Badger, european","category":"Turquoise"},
+{"id":16,"name":"Robin, white-throated","category":"Crimson"},
+{"id":17,"name":"Dog, african wild","category":"Orange"},
+{"id":18,"name":"Amazon parrot (unidentified)","category":"Puce"},
+{"id":19,"name":"Brown pelican","category":"Violet"},
+{"id":20,"name":"Rhea, gray","category":"Pink"}
+]
+}
